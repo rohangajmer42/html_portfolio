@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site serves as a digital resume a
 
 ## 🌐 Live Demo
 
-🔗 [View Portfolio Website]([https://your-deployment-link.com](https://rohangajmer42.github.io/html_portfolio/)  
+🔗 [https://rohangajmer42.github.io/html_portfolio/](https://rohangajmer42.github.io/html_portfolio/)
 📁 [Resume Source Code](Resume_Rohan.html)
 
 ## 🚀 Features
